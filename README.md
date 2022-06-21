@@ -1,10 +1,9 @@
 # Hi there 👋
 ## My name is Ania, aspiring Frontend Developer!  
-🌱 I’m currently learning JavaScript and React.
+🌱 I’m currently learning JavaScript and React that's why I’m currently working on first project in React.	
 
+------
 
-
- 🔭 I’m currently working on first project in React.	
 
  
  💬 Ask me about my GitHub Projects and give me feedback (I'd appreciate!)	

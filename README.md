@@ -1,5 +1,6 @@
 # Hi there 👋
-## My name is Ania, aspiring Frontend Developer!  🌱 I’m currently learning JavaScript and React.
+## My name is Ania, aspiring Frontend Developer!  
+🌱 I’m currently learning JavaScript and React.
 
 
 

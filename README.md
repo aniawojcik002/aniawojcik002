@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Ania, aspiring Frontend Developer!
-😄 Pronouns: she/her.
+
 
 
 🔭 I’m currently working on first project in React.

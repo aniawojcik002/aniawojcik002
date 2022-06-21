@@ -1,5 +1,13 @@
 ### Hi there 👋
+My name is Ania, aspiring Frontend Developer!
+😄 Pronouns: she/her.
 
+
+🔭 I’m currently working on first project in React.
+🌱 I’m currently learning JavaScript and React.
+
+ 💬 Ask me about my GitHub Projects and give me feedback (I'd appreciate!)
+⚡ About me: hiking and road bikes lover! 
 <!--
 **aniawojcik002/aniawojcik002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

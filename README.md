@@ -4,6 +4,7 @@
 
 ----
 
+🔭 I’m also currently working on 30 days JavaScript Challenge.
 
  
  💬 Ask me about my GitHub Projects and give me feedback (I'd appreciate!)	

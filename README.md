@@ -1,6 +1,6 @@
 # Hi there 👋
-## My name is Ania, on my daily basis I am learning frontend and I really enjoy this!
-🌱 I’m currently learning JavaScript and React that's why I’m currently working on first project in React.	
+## My name is Ania!
+🌱 I’m currently learning JavaScript and React.	
 
 ----
 

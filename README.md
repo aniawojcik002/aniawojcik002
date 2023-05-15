@@ -1,6 +1,6 @@
 # Hi there 👋
-## My name is Ania!
-🌱 I’m currently learning JavaScript and React.	
+<!-- ## My name is Ania! -->
+<!-- 🌱 I’m currently learning JavaScript and React.	 -->
 
 ----
 
